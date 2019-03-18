@@ -1,76 +1,77 @@
 {
   "data": [
   {
-      "FirstName": "RichM",
-      "LastName": "Evans1",
-      "State": "MT",
-      "Attorney": "Rob Robertson",
-      "ReferralDate": "1 July 1876",
-      "Expert": "Reg"
+      "firstName": "RichM",
+      "lastName": "Evans1",
+      "state": "MT",
+      "attorneyName": "Rob Robertson",
+      "referralDate": "1 July 1876",
+      "expertName": "Reg"
     },
     {
-      "FirstName": "RichF",
-      "LastName": "Evans2",
-      "State": "ND",
-      "Attorney": "Bob Bobber",
-      "ReferralDate": "1 May 1876",
-      "Expert": "Reg"
+      "firstName": "RichF",
+      "lastName": "Evans2",
+      "state": "ND",
+      "attorneyName": "Bob Bobber",
+      "referralDate": "1 May 1876",
+      "expertName": "Reg"
     },
     {
-      "FirstName": "RichX",
-      "LastName": "Evans3",
-      "State": "MT",
-      "Attorney": "Jane Janner",
-      "ReferralDate": "2 July 1876",
-      "Expert": "Reg"
+      "firstName": "RichX",
+      "lastName": "Evans3",
+      "state": "MT",
+      "attorneyName": "Jane Janner",
+      "referralDate": "2 July 1876",
+      "expertName": "Reg"
     },
     {
-      "FirstName": "RichA",
-      "LastName": "Evans4",
-      "State": "OH",
-      "Attorney": "John Doe",
-      "ReferralDate": "8 December 2084",
-      "Expert": "Reg"
+      "firstName": "RichA",
+      "lastName": "Evans4",
+      "state": "OH",
+      "attorneyName": "John Doe",
+      "referralDate": "8 December 2084",
+      "expertName": "Reg"
     },
     {
-      "FirstName": "RichJ",
-      "LastName": "Evans5",
-      "State": "MT",
-      "Attorney": "Jane Doe",
-      "ReferralDate": "2 January 1876",
-      "Expert": "Reg"
+      "firstName": "RichJ",
+      "lastName": "Evans5",
+      "state": "MT",
+      "attorneyName": "Jane Doe",
+      "referralDate": "2 January 1876",
+      "expertName": "Reg"
     },
     {
-      "FirstName": "RichP",
-      "LastName": "Evans6",
-      "State": "MT",
-      "Attorney": "Ragnar the Destroyer",
-      "ReferralDate": "1 July 1999",
-      "Expert": "Reg"
+      "firstName": "RichP",
+      "lastName": "Evans6",
+      "state": "MT",
+      "attorneyName": "Ragnar the Destroyer",
+      "referralDate": "1 July 1999",
+      "expertName": "Reg"
     },
     {
-      "FirstName": "RichR",
-      "LastName": "Evans7",
-      "State": "MT",
-      "Attorney": "Bobbi Pursun",
-      "ReferralDate": "2 April 1234",
-      "Expert": "Reg"
+      "firstName": "RichR",
+      "lastName": "Evans7",
+      "state": "MT",
+      "attorneyName": "Bobbi Pursun",
+      "referralDate": "2 April 1234",
+      "expertName": "Reg"
     },
     {
-      "FirstName": "RichE",
-      "LastName": "Evans8",
-      "State": "MT",
-      "Attorney": "Rob Robertson",
-      "ReferralDate": "1 July 1876",
-      "Expert": "Reg"
+      "firstName": "RichE",
+      "lastName": "Evans8",
+      "state": "MT",
+      "attorneyName": "Rob Robertson",
+      "referralDate": "1 July 1876",
+      "expertName": "Reg"
     },
     {
-      "FirstName": null,
-      "LastName": null,
-      "State": null,
-      "Attorney": null,
-      "ReferralDate": null,
-      "Expert": null
+      "firstName": null,
+      "lastName": null,
+      "state": null,
+      "attorneyName": null,
+      "referralDate": null,
+      "expertName": null
     }
   ]
 }
+
